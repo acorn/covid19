@@ -3,7 +3,7 @@
 """
 Created on Mon Apr  5 18:10:47 2021
 
-@author: yinyang
+@author: Georgina
 """
 
 ##Interactive app time
