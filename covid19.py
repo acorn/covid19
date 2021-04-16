@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-"""
 Analyzing Covid 19 data. 
 
 Data from: https://github.com/CSSEGISandData/COVID-19
